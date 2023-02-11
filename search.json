@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Lava Kush Mishra",
+    "section": "",
+    "text": "Hi Folks!\nI am a data scientist who has been around for a while. I have worked on multiple domain like Geospatial, Image Analytics, Aerospace, Insurance, Condition based monitoring, forecasting, NLP etc..\nData Science provides me an opporunity to explore mutiple domains and work with brillient minds accross the domains. Data Science is a changing our world exponetially and I am glad that I am also part of this journey.\nData Science is a vast field. it has it’s own life cycle and every data scientist follow this in any project. It’s very import for everyone to understand data science life cycle properly.\nThis page is a one stop shop where I will be sharing post related to data science stuffs, how to follow data science life cycle step by step, how to deploy a model and other important topics.\nStay Tuned!!\n\n\nClick here to check out my blog.\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nFeb 5, 2023\n\n\nDATA SCIENCE LIFE CYCLE — AT A GLANCE\n\n\nLava Kush Mishra\n\n\n\n\nFeb 5, 2023\n\n\nDATA SCIENCE — A NEW ERA\n\n\nLava Kush Mishra\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "blog",
+    "section": "",
+    "text": "DATA SCIENCE LIFE CYCLE — AT A GLANCE\n\n\n\n\n\n\n\ndata science\n\n\ndata science life cycle\n\n\ndata scientist\n\n\nmedium\n\n\n\n\nData science is the study of data, which combines various disciplines all together to resolve the business problems.\n\n\n\n\n\n\nFeb 5, 2023\n\n\nLava Kush Mishra\n\n\n\n\n\n\n  \n\n\n\n\nDATA SCIENCE — A NEW ERA\n\n\n\n\n\n\n\ndata science\n\n\ndata science life cycle\n\n\ndata scientist\n\n\nmedium\n\n\n\n\nWhen you are not sure from where to start then start from the very beginning …\n\n\n\n\n\n\nFeb 5, 2023\n\n\nLava Kush Mishra\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Lava Kush Mishra",
+    "section": "",
+    "text": "Welcome to my Github Page. This is one stop shop for my articles. please feel free to reach out to me, if you have any query. Thanks!!"
+  },
+  {
+    "objectID": "posts/DATA SCIENCE LIFE CYCLE — AT A GLANCE/index.html",
+    "href": "posts/DATA SCIENCE LIFE CYCLE — AT A GLANCE/index.html",
+    "title": "DATA SCIENCE LIFE CYCLE — AT A GLANCE",
+    "section": "",
+    "text": "This article is originally posted on medium, link is given below."
+  },
+  {
+    "objectID": "posts/DATA SCIENCE LIFE CYCLE — AT A GLANCE/index.html#understanding-of-business-problem",
+    "href": "posts/DATA SCIENCE LIFE CYCLE — AT A GLANCE/index.html#understanding-of-business-problem",
+    "title": "DATA SCIENCE LIFE CYCLE — AT A GLANCE",
+    "section": "1. Understanding of Business Problem:",
+    "text": "1. Understanding of Business Problem:\n\nPhoto by Jonathan Forage on Unsplash\n“Suppose, Mohan started his adventurous journey with his friends and unfortunately he gets separated from his friends in the middle. Now, he is all alone in an unknown place. suddenly, he realizes that he doesn’t know his destination also because he did not discuss journey plan with his friends, he was just enjoying the route.” 😮\nNow, I hope you can better understand from the above example that it can happen in our project journey also if we don’t have proper understanding of our business problem and project roadmap.\nIt is required to have a good discussion with the stakeholders and top managements about business problem and their expectation from the team. To make this easy, we should have clear idea of below questions before deep dive into ant project.\n\nWhat is the business requirement?\nWhy do we need to do this?\nWhat is the expectation from the project?\nWhat are the business constraints involved in project?\nWhat is the acceptable margin?\nhow can we get the required data?\n\nThese are few examples. It can vary based on your project requiremets and expectations."
+  },
+  {
+    "objectID": "posts/DATA SCIENCE LIFE CYCLE — AT A GLANCE/index.html#data-gathering",
+    "href": "posts/DATA SCIENCE LIFE CYCLE — AT A GLANCE/index.html#data-gathering",
+    "title": "DATA SCIENCE LIFE CYCLE — AT A GLANCE",
+    "section": "2. Data Gathering:",
+    "text": "2. Data Gathering:\n\nPhoto by Evie S. on Unsplash\nData is like a fuel for any data science project. If we don’t have proper data and it’s understanding, it is very difficult to get meaningful insights out of it. we need to have proper discussions with domain experts about the route cause of the problem. We need to collect all data which can be a potential reason for the problem. If data is already available, it is good otherwise we need to talk to the respective teams to provide required data. It is very import to capture all possible scenario in our data sample.\nThere can be various types of data possible for a data science project. For example, if we are working on forecasting project, we will using time series data. If we are working on image analytics, we will be working on image dataset."
+  },
+  {
+    "objectID": "posts/DATA SCIENCE LIFE CYCLE — AT A GLANCE/index.html#data-processing",
+    "href": "posts/DATA SCIENCE LIFE CYCLE — AT A GLANCE/index.html#data-processing",
+    "title": "DATA SCIENCE LIFE CYCLE — AT A GLANCE",
+    "section": "3. Data Processing:",
+    "text": "3. Data Processing:\n\nPhoto by Joshua Sortino on Unsplash\nData processing is the combination of multiple processes like data cleaning, feature engineering, feature selection etc..\nFew of the important steps, of data processing can be seen below:\n\nCombine all relevant datasets properly and create a consolidated dataset\nData cleaning should be done based on statistical approaches.\nHandle all null values by removing or replacing it with appropriate values\nRemove outliers present in the data using multiple statistical techniques like boxplot etc.\nRemove unwanted data from the dataset\nConvert the data into required format and provide it in the desired location."
+  },
+  {
+    "objectID": "posts/DATA SCIENCE LIFE CYCLE — AT A GLANCE/index.html#exploratory-data-analysis",
+    "href": "posts/DATA SCIENCE LIFE CYCLE — AT A GLANCE/index.html#exploratory-data-analysis",
+    "title": "DATA SCIENCE LIFE CYCLE — AT A GLANCE",
+    "section": "4. Exploratory Data Analysis:",
+    "text": "4. Exploratory Data Analysis:\n\nPhoto by Stephen Phillips - Hostreviews.co.uk on Unsplash\nOnce, we are done with data processing, we should analyze the data to get meaning insights from it. This method includes in-depth analysis of data using statistical approaches and graphs like bar graphs, scatter plot etc.\nThis step is very important because it helps us to understand the data pattern and improve our model performance."
+  },
+  {
+    "objectID": "posts/DATA SCIENCE LIFE CYCLE — AT A GLANCE/index.html#data-modeling",
+    "href": "posts/DATA SCIENCE LIFE CYCLE — AT A GLANCE/index.html#data-modeling",
+    "title": "DATA SCIENCE LIFE CYCLE — AT A GLANCE",
+    "section": "5. Data Modeling:",
+    "text": "5. Data Modeling:\n\nPhoto by Laura Ockel on Unsplash\nThis step is the core of the data science life cycle (DSLC). In this step, we transform our data into our desired form and use it for further applications. This step includes identification of proper method (selection of an appropriate techniques like classification, regression or clustering) and selection of data model. Once, model is selected, we need to focus on hyper parameters tuning which is directly related to model performance. Optimization of hyper parameters help to achieve best possible performance of the model. Model evaluation is also an integral part of model performance optimization. Model evaluation metrics (mse, mspe, log-loss, ROC-AUC curve etc..) should be selected in such a way so that it can calculate errors after each steps which should be handled by model optimizer."
+  },
+  {
+    "objectID": "posts/DATA SCIENCE LIFE CYCLE — AT A GLANCE/index.html#model-deployment",
+    "href": "posts/DATA SCIENCE LIFE CYCLE — AT A GLANCE/index.html#model-deployment",
+    "title": "DATA SCIENCE LIFE CYCLE — AT A GLANCE",
+    "section": "6. Model Deployment:",
+    "text": "6. Model Deployment:\n\nModel Deployment\nThis is the final stage of data science life cycle. Once model is optimized and ready to use, we need to deploy it in production environment so that it can be used for further applications.\nThis step varies based on the end user requirement. We need to transform our model output in desired format so that it can fulfil business requirement."
+  },
+  {
+    "objectID": "posts/DATA SCIENCE — A NEW ERA/index.html",
+    "href": "posts/DATA SCIENCE — A NEW ERA/index.html",
+    "title": "DATA SCIENCE — A NEW ERA",
+    "section": "",
+    "text": "This article is originally posted on medium, link is given below."
+  },
+  {
+    "objectID": "posts/DATA SCIENCE — A NEW ERA/index.html#branches-of-science",
+    "href": "posts/DATA SCIENCE — A NEW ERA/index.html#branches-of-science",
+    "title": "DATA SCIENCE — A NEW ERA",
+    "section": "Branches of Science:",
+    "text": "Branches of Science:\nThere are three main branches of science which are as follows:\n\nPhysical Science: This branch deals with Non-living materials, Natural laws and energy.\nLife Science: This branch deals with living bodies present on the earth.\nEarth Science: As name says, this is the study of earth and space."
+  }
+]
